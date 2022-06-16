@@ -5,7 +5,7 @@ cabal-version: 1.12
 -- see: https://github.com/sol/hpack
 
 name:           text
-version:        1.2.5.0
+version:        1.2.5.1
 description:    Please see the README on GitHub at <https://github.com/mpilgrem/text#readme>
 homepage:       https://github.com/mpilgrem/text#readme
 bug-reports:    https://github.com/mpilgrem/text/issues

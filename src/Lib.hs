@@ -3,4 +3,4 @@ module Lib
     ) where
 
 dummy :: IO ()
-dummy = putStrLn "dummy"
+dummy = putStrLn "dummy bumped"
